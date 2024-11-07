@@ -7,9 +7,9 @@
 This is a Movie Recommender System built using Streamlit for the interface, pickle for loading pre-saved models, and requests to fetch movie poster images.
 
 ## Setup
-- Run movie.ipynb in `jupyter notbook` ti generate artufacts
-- Then activate env as well as `pip install -r requirements.txt`
-- And run `streamlit run app.py`
+- Run `movie.ipynb` in `jupyter notbook` to generate __artifacts__
+- Then setup `source env/bin/activate` as well as `pip install -r requirements.txt`
+- And run the application: `streamlit run app.py`
 
 
 ## Files
