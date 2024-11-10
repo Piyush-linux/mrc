@@ -2,7 +2,7 @@
 
 > scikit, similarity, word2Vec, Python ENV & conda create
 
-- Clone of : https://github.com/entbappy/Movie-Recommender-System-Using-Machine-Learning/
+[🔥 Demo](https://www.youtube.com/watch?v=T2WfCEOugV4)
 
 This is a Movie Recommender System built using Streamlit for the interface, pickle for loading pre-saved models, and requests to fetch movie poster images.
 
